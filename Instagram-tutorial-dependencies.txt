@@ -1,0 +1,12 @@
+Instagram Tutorial App Dependencies
+- firebase
+-react-app-skeleton
+-date-fns
+- react-router-dom
+-Tailwind css
+-prop-types
+-postcss-cli
+-npm-run-all
+-autoprefixer
+
+visit heroicons for taailwind
