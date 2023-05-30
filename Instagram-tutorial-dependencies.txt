@@ -8,5 +8,6 @@ Instagram Tutorial App Dependencies
 -postcss-cli
 -npm-run-all
 -autoprefixer
-
-visit heroicons for taailwind
+-react memo
+-@welldone-software/why-did-you-render
+visit heroicons for tailwind
